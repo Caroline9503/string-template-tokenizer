@@ -1,0 +1,17 @@
+{
+  "name": "string-template-tokenizer",
+  "version": "0.1.0",
+  "description": "Splits JS template literals into tokens without running the code",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
